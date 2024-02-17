@@ -1,4 +1,4 @@
-<h1>Python - Variable Annotations</h1>
-This repository contains examples and explanations of variable annotations in Python.
+<h1>Holberton School Web Back End - Python</h1>
+This repository contains the back-end code for a web application built using Python.
 
-Variable annotations are a new feature in Python 3.5 and later, which allow you to specify the type of a variable at the time of its definition. This can be useful for documenting your code, improving code readability, and catching type errors at runtime.
+The application is a simple web server that serves static files and dynamic content using the Flask web framework. The server includes routes for handling HTTP requests, as well as logic for processing and responding to those requests.
