@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 ''' Description: defines four variables with their corresponding data
 types and initial values
     Arguments:  a -> an integer with a value of 1
