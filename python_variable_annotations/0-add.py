@@ -2,7 +2,6 @@
 ''' Description: This code defines a function called add that takes two 
     arguments,a and b, which are both of type float. The function 
     returns the sum of a and b.
-    
     Arguments: a: float
                 b: float
 '''
