@@ -10,8 +10,8 @@ La programación asíncrona es un estilo de programación que permite realizar m
 
 En este repositorio, encontrarás ejemplos de cómo utilizar la programación asíncrona en Python, dentro de los ejercicios:
 
-0 - The basics of async
-1 - Let's execute multiple coroutines at the same time with async
-2 - Measure the runtime
-3 - Tasks
-4 - Tasks
+0 - The basics of async <br />
+1 - Let's execute multiple coroutines at the same time with async <br />
+2 - Measure the runtime <br />
+3 - Tasks <br />
+4 - Tasks <br />
