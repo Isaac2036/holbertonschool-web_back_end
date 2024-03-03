@@ -10,8 +10,8 @@ Las comprensiones asíncronas son una característica poderosa de Python que per
 
 En este repositorio, encontrarás ejemplos de cómo utilizar comprensiones asíncronas en Python, incluyendo:
  
-<ol type="A">
+<ul type="A">
     <li>0. Async Generator</li>
     <li>1. Async Comprehensions</li>
     <li>2. Run time for four parallel comprehensions</li>
-</ol>
+</ul>
