@@ -25,7 +25,7 @@ En este repositorio, encontrarás ejemplos de cómo utilizar clases en ES6 para 
     <li>5. A Building</li>
     <li>6. Inheritance</li>
     <li>7. Airport</li>
-    <li>8. Primitive - Holberton Class/li>
+    <li>8. Primitive - Holberton Class </li>
     <li>9. Hoisting</li>
     <li>10. Vroom</li>
 </ul>
