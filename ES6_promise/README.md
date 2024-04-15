@@ -16,14 +16,14 @@ En este repositorio, encontrarás ejemplos de cómo utilizar promesas en JavaScr
 
 ## Ejemplos
 <ul>
-    </li>0. Keep every promise you make and only make promises you can keep</li>
-    </li>1. Don't make a promise...if you know you can't keep it</li>
-    </li>2. Catch me if you can!</li>
-    </li>3. Handle multiple successful promises</li>
-    </li>4. Simple promise</li>
-    </li>5. Reject the promises</li>
-    </li>6. Handle multiple promises</li>
-    </li>7. Load balancer</li>
-    </li>8. Throw an error</li>
-    </li>9. Throw error / try catch</li>
+    <li>0. Keep every promise you make and only make promises you can keep</li>
+    <li>1. Don't make a promise...if you know you can't keep it</li>
+    <li>2. Catch me if you can!</li>
+    <li>3. Handle multiple successful promises</li>
+    <li>4. Simple promise</li>
+    <li>5. Reject the promises</li>
+    <li>6. Handle multiple promises</li>
+    <li>7. Load balancer</li>
+    <li>8. Throw an error</li>
+    <li>9. Throw error / try catch</li>
 </ul>
